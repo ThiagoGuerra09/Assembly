@@ -1,7 +1,7 @@
 .text main
 main: 
 
-addi $s1, $zero, -1 # declaraÁaı 
+addi $s1, $zero, -1 # declara√ßa√µ 
 addi $t0, $zero, 0x1001
 sll $t0, $t0, 16 #shift left no t0
 
