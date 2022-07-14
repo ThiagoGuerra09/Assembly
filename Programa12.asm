@@ -2,7 +2,7 @@
 main: 
 
 addi $t1, $zero, 2 # t1=2
-addi $t0, $zero, 0x1001 #criaÁaı do array
+addi $t0, $zero, 0x1001 #cria√ßa√µ do array
 sll $t0, $t0, 16
 
 lw $s0, 0($t0)# leitura dos ponteiros 
